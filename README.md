@@ -3,7 +3,7 @@ This is a complete knowledge of python programming. Knowledge consists of follow
 
 I) Problem Solving Techniques
 
-A) Algorithm:
+A) Algorithm
 1) Algorithmic Solution
 2) Algorithmic Analysis
 2.1) Priori Estimates
@@ -30,12 +30,12 @@ A) Algorithm:
 6) Algorithmic Problem Solving
 7) Example Algorithm
 
-B) Flow Chart:
+B) Flow Chart
 1) Rules For Drawing Flow Chart
 2) Advantages, Disadvantages Of Flow Chart
 3) Example Flow Chart
 
-C) Pseudo Code:
+C) Pseudo Code
 1) Guidelines For Writing Pseudo Code
 2) Common Keywords Used In Pseudo Code
 3) Syntax Of Pseudo Code
