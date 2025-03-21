@@ -1,81 +1,152 @@
 # pythonic_knowledge
 This is a complete knowledge of python programming. Knowledge consists of following:
 
-I) Problem Solving Techniques
+I) Problem Solving
 
-A) Algorithm
-1) Algorithmic Solution
-2) Algorithmic Analysis
-2.1) Priori Estimates
-2.2) Posteriori Testing
-3) Algorithmic Complexity And Efficiency
-3.1) Time Complexity
-3.2) Space Complexity
-3.3) Asymptotic Notations
-3.3.1) Worst Case
-3.3.2) Best Case
-3.3.3) Average Case
-3.3.4) Determination Of Algorithmic Efficiency
-4) Qualities, Properties, Characteristics Of Good Algorithm
-5) Building Blocks Of Algorithm
-5.1) Statement
-5.2) State
-5.3) Control Flow
-5.3.1) Sequence
-5.3.2) Selection
-5.3.3) Iteration
-5.3.4) Functions
-5.3.5) Modules
-5.3.6) Classes And Objects
-6) Algorithmic Problem Solving
-7) Example Algorithm
+A) Problem Solving Tools
 
-B) Flow Chart
-1) Rules For Drawing Flow Chart
-2) Advantages, Disadvantages Of Flow Chart
-3) Example Flow Chart
+1) Algorithm
+1.1) Algorithmic Solution
+1.2) Algorithmic Analysis
+1.2.1) Priori Estimates
+1.2.2) Posteriori Testing
+1.3) Algorithmic Complexity And Efficiency
+1.3.1) Time Complexity
+1.3.2) Space Complexity
+1.3.3) Asymptotic Notations
+1.3.3.1) Worst Case
+1.3.3.2) Best Case
+1.3.3.3) Average Case
+1.3.3.4) Determination Of Algorithmic Efficiency
+1.4) Qualities, Properties, Characteristics Of Good Algorithm
+1.5) Building Blocks Of Algorithm
+1.5.1) Statement
+1.5.2) State
+1.5.3) Control Flow
+1.5.3.1) Sequence
+1.5.3.2) Selection
+1.5.3.3) Iteration
+1.5.3.4) Functions
+1.5.3.5) Modules
+1.5.3.6) Classes And Objects
+1.6) Algorithmic Problem Solving
+1.7) Example Algorithm
 
-C) Pseudo Code
-1) Guidelines For Writing Pseudo Code
-2) Common Keywords Used In Pseudo Code
-3) Syntax Of Pseudo Code
-4) Advantages, Disadvantages Of Pseudo Code
-5) Example Pseudo Code
-6) Difference Between Algorithm, Flow Chart, Pseudo Code
+2) Flow Chart
+2.1) Rules For Drawing Flow Chart
+2.2) Advantages, Disadvantages Of Flow Chart
+2.3) Example Flow Chart
 
-D) Program, Programming Language
-1) Example
-2) Types: 3
-2.1) Machine, Binary (Or) Low Level Language
-2.2) Assembly (Or) Intermediate Language
-2.3) High Level Language (Or) Translator
-2.3.1) Compiler
-2.3.2) Interpreter
-2.4) Difference Between High-Level Language, Low Level Language
-2.5) Difference Between Compiler, Interpreter
-3) Computer System Level Hierarchy
-4) Classification Of High Level Language (Basis: Application)
-4.1) Commercial Programming Language
-4.2) Scientific Programming Language
-4.3) Special Purpose Programming Language
-4.4) General Purpose Programming Language
-5) Classification Of High Level Language (Basis: Design Paradigm)
-5.1) Markup Programming Language
-5.2) Concurrent (Or) Parallel Programming Language
-5.3) Scripting Programming Language
-5.4) Compiled Programming Language
-5.5) Interpreted Programming Language
-5.6) Procedural Programming Language
-5.7) Functional (Or) Modular Programming Language
-5.8) Object Oriented Programming Language
-6) Example Program (Python)
+3) Pseudo Code
+3.1) Guidelines For Writing Pseudo Code
+3.2) Common Keywords Used In Pseudo Code
+3.3) Syntax Of Pseudo Code
+3.4) Advantages, Disadvantages Of Pseudo Code
+3.5) Example Pseudo Code
+3.6) Difference Between Algorithm, Flow Chart, Pseudo Code
+
+4) Program, Programming Language
+4.1) Types: 3
+4.1.1) Machine, Binary (Or) Low Level Language
+4.1.2) Assembly (Or) Intermediate Language
+4.1.3) High Level Language (Or) Translator
+4.1.3.1) Compiler
+4.1.3.2) Interpreter
+4.1.4) Difference Between High-Level Language, Low Level Language
+4.1.5) Difference Between Compiler, Interpreter
+4.2) Computer System Level Hierarchy
+4.3) Classification Of High Level Language (Basis: Application)
+4.3.1) Commercial Programming Language
+4.3.2) Scientific Programming Language
+4.3.3) Special Purpose Programming Language
+4.3.4) General Purpose Programming Language
+4.4) Classification Of High Level Language (Basis: Design Paradigm)
+4.4.1) Markup Programming Language
+4.4.2) Concurrent (Or) Parallel Programming Language
+4.4.3) Scripting Programming Language
+4.4.4) Compiled Programming Language
+4.4.5) Interpreted Programming Language
+4.4.6) Procedural Programming Language
+4.4.7) Functional (Or) Modular Programming Language
+4.4.8) Object Oriented Programming Language
+4.5) Python Info, Example Program
+4.5.1) Hello Python
+
+
+B) Algorithms
+
+0) Algorithmic Complexity, Efficiency
+0.1) Space Complexity - Getting Size Of Objects Using getsizeof() Method From sys Module
+0.2) Time Complexity - To Calculate The Execution Time Of A Code Using Time Module
+
+1) Searching Algorithms
+1.1) Linear Search
+1.2) Binary Search
+
+2) Sorting Algorithms
+2.1) Selection Sort
+2.2) Bubble Sort
+2.3) Insertion Sort
+2.4) Heap Sort
+2.5) Quick Sort
+2.6) Merge Sort
+
+3) Divide And Conquer Algorithms
+
+4) Dynamic Programming Algorithms
+4.1) Top-Down Approach
+4.2) Bottom-Up Approach
+
+5) Greedy Algorithms
+
+6) Graph Traversals Algorithms
+6.1) Breadth-First Search Algorithm (BFS)
+6.2) Depth-First Search Algorithm (DFS)
+
+
+C) Data Structures
+
+1) Built-In Data Structures
+1.1) File
+1.2) String
+1.3) List
+1.4) Tuple
+1.5) Set
+1.6) Frozen Set
+1.7) Dictionary
+1.8) Collections
+1.9) Pointers In Python
+
+2) User-Defined Data Structures
+2.1) Linear Data Structures
+2.1.1) Array
+2.1.1.1) 1D Array, 2D Array, 3D Array (Matrices) (ND Array) Using array Module
+2.1.1.2) 1D Array, 2D Array, 3D Array (Matrices) (ND Array) Using numpy Module
+2.1.2) Linked List
+2.1.2.1) Singly Linked List
+2.1.2.2) Doubly Linked List
+2.1.2.3.1) Circular Singly Linked List
+2.1.2.3.2) Cicular Doubly Linked List
+2.1.3) Stack
+2.1.3.1) Stack Using Array
+2.1.3.2) Stack Using Linked List
+2.1.4) Queue
+2.1.4.1) Queue Using Array
+2.1.4.2) Queue Using Linked List
+2.1.5) Hash Table
+2.1.6) Hash Map
+2.2) Non-Linear Data Structures
+2.2.1) Tree
+2.2.1.1) BST
+2.2.1.2) Ternary Tree
+2.2) Graph
+2.3) DataFrame Using pandas Library
+
+
 
 II) Programming Paradigms
 
 A) Procedural Programming
-
-0) Python - Info
-0.1) Hello Python
 
 1) Input And Output Functions
 1.1) Output Function - print()
@@ -276,10 +347,12 @@ C) Object Oriented Programming
 1.2.2) Methods (Types)
 
 2) Objects
-2.1) Class Instantiation
+2.1) Object Instantiation (Creation)
 2.2) Object Members
 
-3) Constructors, Destructors
+3) Object Lifecycle Methods
+3.1) Constructors
+3.2) Destructors
 
 4) Encapsulation (Access Specifier)
 4.1) public
@@ -312,81 +385,14 @@ C) Object Oriented Programming
 9) Iterators
 
 
-D) Concurrent (Or) Parallel Programming
+III) Programming Models
+
+A) Concurrent (Or) Parallel Programming
+
 1) Process, Threads
 
 
-E) Network Programming
+B) Network Programming
+
 1) Socket Programming For Client-Server Interaction
 
-
-III) Data Structures And Algorithms (DSA)
-
-A) Data Structures
-
-1) Built-In Data Structures
-1.1) File
-1.2) String
-1.3) List
-1.4) Tuple
-1.5) Set
-1.6) Frozen Set
-1.7) Dictionary
-1.8) Collections
-1.9) Pointers In Python
-
-2) User-Defined Data Structures
-2.1) Linear Data Structures
-2.1.1) Array
-2.1.1.1) 1D Array, 2D Array, 3D Array (Matrices) (ND Array) Using array Module
-2.1.1.2) 1D Array, 2D Array, 3D Array (Matrices) (ND Array) Using numpy Module
-2.1.2) Linked List
-2.1.2.1) Singly Linked List
-2.1.2.2) Doubly Linked List
-2.1.2.3.1) Circular Singly Linked List
-2.1.2.3.2) Cicular Doubly Linked List
-2.1.3) Stack
-2.1.3.1) Stack Using Array
-2.1.3.2) Stack Using Linked List
-2.1.4) Queue
-2.1.4.1) Queue Using Array
-2.1.4.2) Queue Using Linked List
-2.1.5) Hash Table
-2.1.6) Hash Map
-
-2.2) Non-Linear Data Structures
-2.2.1) Tree
-2.2.1.1) BST
-2.2.1.2) Ternary Tree
-2.2) Graph
-2.3) DataFrame Using pandas Library
-
-B) Algorithms
-
-0) Algorithmic Complexity, Efficiency
-0.1) Space Complexity - Getting Size Of Objects Using getsizeof() Method From sys Module
-0.2) Time Complexity - To Calculate The Execution Time Of A Code Using Time Module
-
-1) Searching Algorithms
-1.1) Linear Search
-1.2) Binary Search
-
-2) Sorting Algorithms
-2.1) Selection Sort
-2.2) Bubble Sort
-2.3) Insertion Sort
-2.4) Heap Sort
-2.5) Quick Sort
-2.6) Merge Sort
-
-3) Divide And Conquer Algorithms
-
-4) Dynamic Programming Algorithms
-4.1) Top-Down Approach
-4.2) Bottom-Up Approach
-
-5) Greedy Algorithms
-
-6) Graph Traversals Algorithms
-6.1) Breadth-First Search Algorithm (BFS)
-6.2) Depth-First Search Algorithm (DFS)
